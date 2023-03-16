@@ -1,0 +1,6 @@
+#install in terminal using command below
+sudo pip install paho-mqtt
+
+
+If you are using two different Pi’s, then enter your second Pi’s IP address in place of ‘localhost’ in MQTT_ SERVER.
+
