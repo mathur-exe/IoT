@@ -70,4 +70,8 @@ try:
 finally:
         GPIO.cleanup()
 
-# 
+# BLE 
+'''
+Setting Up BLE
+- sudo apt-get install bluemanbluez Bluetooth
+'''
